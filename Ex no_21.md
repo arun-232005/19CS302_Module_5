@@ -11,6 +11,7 @@ To write a C program to calculate the area of a triangle using pointer.
 5. Find the area of triangle using formula 
 6. End.
 ## Program:
+```
 #include <stdio.h> 
 int main() { 
     float base, height, area; 
@@ -20,7 +21,7 @@ int main() {
     area = 0.5 * (*pBase) * (*pHeight); 
     printf("%.2f\n", area); 
 }
-
+```
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/d665f55b-5a1d-452f-a8c5-3fc444080b32)
