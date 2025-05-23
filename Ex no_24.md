@@ -1,11 +1,4 @@
 # EX 24 Create a structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
-## DATE:
-## AIM:
-To Create a structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
-
-## Algorithm
-1. 
-2. # EX 24 Create a structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
 ## DATE:07-05-2025
 ## AIM:
 To Create a structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
@@ -53,26 +46,6 @@ return 0;
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/754a6ee5-b734-4442-a5fa-66505e7814ad)
-
-
-## Result:
-Thus the program was executed and the output was verified successfully.
-
-3. 
-4.  
-5.   
-
-## Program:
-```
-/*
-A structure program to read(empno,dept and basic pay) and store the data of 3 employees and calculate their Gross Salary(da =10% and HRA=30% from BP).
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
-
 
 
 ## Result:
